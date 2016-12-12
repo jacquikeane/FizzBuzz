@@ -1,0 +1,6 @@
+#!/usr/bin/env python3
+
+import fizzbuzz
+
+fb = fizzbuzz.classB.ClassB(100)
+fb.run()
